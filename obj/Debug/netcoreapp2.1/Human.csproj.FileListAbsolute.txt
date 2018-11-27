@@ -1,0 +1,11 @@
+C:\Users\haile\OneDrive\Documents\School\CSharp\Fundamentals\OOP\Human\bin\Debug\netcoreapp2.1\Human.deps.json
+C:\Users\haile\OneDrive\Documents\School\CSharp\Fundamentals\OOP\Human\bin\Debug\netcoreapp2.1\Human.runtimeconfig.json
+C:\Users\haile\OneDrive\Documents\School\CSharp\Fundamentals\OOP\Human\bin\Debug\netcoreapp2.1\Human.runtimeconfig.dev.json
+C:\Users\haile\OneDrive\Documents\School\CSharp\Fundamentals\OOP\Human\bin\Debug\netcoreapp2.1\Human.dll
+C:\Users\haile\OneDrive\Documents\School\CSharp\Fundamentals\OOP\Human\bin\Debug\netcoreapp2.1\Human.pdb
+C:\Users\haile\OneDrive\Documents\School\CSharp\Fundamentals\OOP\Human\obj\Debug\netcoreapp2.1\Human.csprojAssemblyReference.cache
+C:\Users\haile\OneDrive\Documents\School\CSharp\Fundamentals\OOP\Human\obj\Debug\netcoreapp2.1\Human.csproj.CoreCompileInputs.cache
+C:\Users\haile\OneDrive\Documents\School\CSharp\Fundamentals\OOP\Human\obj\Debug\netcoreapp2.1\Human.AssemblyInfoInputs.cache
+C:\Users\haile\OneDrive\Documents\School\CSharp\Fundamentals\OOP\Human\obj\Debug\netcoreapp2.1\Human.AssemblyInfo.cs
+C:\Users\haile\OneDrive\Documents\School\CSharp\Fundamentals\OOP\Human\obj\Debug\netcoreapp2.1\Human.dll
+C:\Users\haile\OneDrive\Documents\School\CSharp\Fundamentals\OOP\Human\obj\Debug\netcoreapp2.1\Human.pdb
